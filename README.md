@@ -2,3 +2,4 @@
 
 lab 6 is alive!
 
+password wrong
